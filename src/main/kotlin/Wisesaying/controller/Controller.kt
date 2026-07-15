@@ -1,7 +1,8 @@
 package com.Wisesaying.controller
 
-import com.Rq
-import com.Wisesaying.Service
+import com.Wisesaying.rq.Rq
+import com.Wisesaying.service.Service
+import kotlin.collections.reversed
 
 class Controller {
     private var service = Service()

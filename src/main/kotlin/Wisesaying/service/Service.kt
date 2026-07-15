@@ -1,6 +1,6 @@
 package com.Wisesaying.service
 
-import com.Wisesaying.WiseSaying
+import com.Wisesaying.entity.WiseSaying
 
 class Service {
     private var lastId=0
